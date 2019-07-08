@@ -1,1 +1,2 @@
 Hello git 
+it's a new line pull
